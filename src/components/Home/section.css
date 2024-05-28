@@ -7,10 +7,15 @@
     color: white;
 }
 
-.section{
+.home{
     padding: 8rem 6rem 3rem 6rem;
     background-color: #eee;
 }
+
+/* .section{
+    padding: 8rem 6rem 3rem 6rem;
+    background-color: #eee;
+} */
 
 .leftSection{
     width: 48%;
