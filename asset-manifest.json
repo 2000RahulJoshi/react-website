@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/2000RahulJoshi/react-website/static/css/main.a90bee4d.css",
-    "main.js": "/2000RahulJoshi/react-website/static/js/main.5fca9f6c.js",
+    "main.js": "/2000RahulJoshi/react-website/static/js/main.6c276762.js",
     "static/media/bootstrap-icons.woff?": "/2000RahulJoshi/react-website/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/2000RahulJoshi/react-website/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/slick.svg": "/2000RahulJoshi/react-website/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,10 +10,10 @@
     "static/media/slick.woff": "/2000RahulJoshi/react-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/2000RahulJoshi/react-website/index.html",
     "main.a90bee4d.css.map": "/2000RahulJoshi/react-website/static/css/main.a90bee4d.css.map",
-    "main.5fca9f6c.js.map": "/2000RahulJoshi/react-website/static/js/main.5fca9f6c.js.map"
+    "main.6c276762.js.map": "/2000RahulJoshi/react-website/static/js/main.6c276762.js.map"
   },
   "entrypoints": [
     "static/css/main.a90bee4d.css",
-    "static/js/main.5fca9f6c.js"
+    "static/js/main.6c276762.js"
   ]
 }
